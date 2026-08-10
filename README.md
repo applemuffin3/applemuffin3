@@ -1,4 +1,1 @@
-## Hi there 👋
-
-<!--
-**applemuffin3/applemuffin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://github.com/applemuffin3/Metaphysical-Glitters.git
+#### <p align="center"> ![nyanyanya](https://litter.catbox.moe/ntu6ex3tnvfa4a6y.jpg)<p align="center">
