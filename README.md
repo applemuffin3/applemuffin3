@@ -5,5 +5,4 @@
  <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/vhstluf2nwuno5eq.jpg" />
  <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/0kc80c64e4nqh7w5.jpeg" />
  <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/vkihqovbqzwnyern.jpeg" />
-
-    <img width="99" height="56" alt="1000158293" src="https://litter.catbox.moe/6dmifgbtd6vwsv81.jpeg" />
+<img width="99" height="56" alt="1000158293" src="https://litter.catbox.moe/6dmifgbtd6vwsv81.jpeg" />
