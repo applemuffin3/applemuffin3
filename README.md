@@ -1,5 +1,5 @@
 <p align="center"> <img width="475" height="250" alt="1000158293" src="https://litter.catbox.moe/rzz3gnqxa0556tv9.jpg" />
-<img width="99" height="56" alt="1000158293" src="https://litter.catbox.moe/dcacnnq59b1ncbvv.gif" />
+<img width="13p" height="70" alt="1000158293" src="https://litter.catbox.moe/dcacnnq59b1ncbvv.gif" />
 <p align="center"> <img width="475" height="250" alt="1000158293"
  src="https://litter.catbox.moe/oclhlqkmecljez72.gif" />
  <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/verdrbnu8nw8gidz.gif" />
