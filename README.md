@@ -7,5 +7,3 @@
 <img width="140" height="90" alt="1000158293" src="https://litter.catbox.moe/8rik0m4g6cst197s.jpeg" />
 <img width="140" height="90" alt="1000158293" src="https://litter.catbox.moe/n3k0pjbfiwx79a3l.jpeg" />
  <p align="center"> <img width="140" height="90" alt="1000158293" src="https://litter.catbox.moe/c813y8ox4b3k82z6.jpg" />
-<img width="140" height="90" alt="1000158293" src="https://litter.catbox.moe/lxytq28nfd6xy6zy.gif" />
-<p align="center"> <img width="140" height="90" alt="1000158293" src="https://litter.catbox.moe/coxhvtfhzqq1b9zu.jpg" />
