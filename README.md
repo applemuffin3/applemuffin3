@@ -1,11 +1,1 @@
-<p align="center"> <img width="475" height="251" alt="1000158293" src="https://litter.catbox.moe/rzz3gnqxa0556tv9.jpg" />
-<img width="130" height="70" alt="1000158293"
- src="https://litter.catbox.moe/dcacnnq59b1ncbvv.gif" />
- <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/verdrbnu8nw8gidz.gif" />
- <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/vhstluf2nwuno5eq.jpg" />
- <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/0kc80c64e4nqh7w5.jpeg" />
- <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/vkihqovbqzwnyern.jpeg" />
-<img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/6dmifgbtd6vwsv81.jpeg" />
- <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/ogti6ozq729zoy3i.gif" />
-<img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/d02ydg8brunato70.jpg" />
- <img width="130" height="70" alt="1000158293" src="https://litter.catbox.moe/c5zk1tlzeihk1w7r.jpeg" />
+<p align="center"> <img width="99" height="56" alt="1000158293" src="<img width="800" height="583" alt="Screenshot_۲۰۲۶۰۸۰۹-۰۹۲۵۰۸_Chrome" src="https://github.com/user-attachments/assets/f059a01e-ba63-43ef-90ea-130b16eff1a7" /> " />
