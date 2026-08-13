@@ -1,1 +1,1 @@
-<p align="center"> <img width="99" height="56" alt="1000158293" src="<img width="800" height="583" alt="Screenshot_۲۰۲۶۰۸۰۹-۰۹۲۵۰۸_Chrome" src="https://github.com/user-attachments/assets/f059a01e-ba63-43ef-90ea-130b16eff1a7" /> " />
+<p align="center"> <img width="99" height="56" alt="1000158293" src="<img width="800" height="583" alt="Screenshot_۲۰۲۶۰۸۰۹-۰۹۲۵۰۸_Chrome" src="https://github.com/user-attachments/assets/f059a01e-ba63-43ef-90ea-130b16eff1a7" />
