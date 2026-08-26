@@ -1,9 +1,9 @@
 <p align="center"> <img width="450" height="250" alt="1000158293" src="https://litter.catbox.moe/gii6yb.jpg" />
-<img width="130" height="97" alt="1000158293" src="https://litter.catbox.moe/ypf6xq3w210693ca.gif" />
-<img width="130" height="97" alt="1000158293" 
+<img width="120" height="97" alt="1000158293" src="https://litter.catbox.moe/ypf6xq3w210693ca.gif" />
+<img width="120" height="97" alt="1000158293" 
 src="https://litter.catbox.moe/dmj14ezo5clagec7.gif" />  
-<img width="130" height="97" alt="1000158293" src="https://litter.catbox.moe/053jugrjeeylh83m.gif" />
-<img width="130" height="97" alt="1000158293" src="https://litter.catbox.moe/q50cn9ihgajc8rbo.gif" />
+<img width="120" height="97" alt="1000158293" src="https://litter.catbox.moe/053jugrjeeylh83m.gif" />
+<img width="120" height="97" alt="1000158293" src="https://litter.catbox.moe/q50cn9ihgajc8rbo.gif" />
 <img width="120" height="97" alt="1000158293" 
 src="https://litter.catbox.moe/8q5eprgl2z9wq0d8.gif" />
 <img width="120" height="97" alt="1000158293" src="https://litter.catbox.moe/5lmlbg0j4ja3gh2o.jpeg" />
