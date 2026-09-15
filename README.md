@@ -6,7 +6,7 @@
 
 <p align="center"> <img width="450" height="90" alt="1000158293" src="https://i.postimg.cc/kGN2zyMR/2513119-6025e.gif" />
 
-<p align="center"> <img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/Gh2RZQmq/8a591a20-0920-486f-9aab-d249bd2e2456.gif" />
+<p align="center"> <img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/Wp59h5fM/8a591a20-0920-486f-9aab-d249bd2e2456.gif" />
 
 <img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/NFz23XCG/Screenshot-20260513-180743-Google.jpg" />
 
@@ -14,7 +14,7 @@
 
 <img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/8Ct9gPG4/0c8d1537-b712-465f-bdcb-d8269b21290e.jpg" />
 
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/KzJVN6Lw/7ee26574-1bbb-4ec3-bb03-f34fab8da73b.jpg" />
+<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/B6YxQVQn/7ee26574-1bbb-4ec3-bb03-f34fab8da73b.jpg" />
 
 <img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/HxBK2q5f/cdfed25f-3cae-4336-b442-bf8506221f5c.jpg " />
 
