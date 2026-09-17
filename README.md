@@ -2,35 +2,4 @@
 
 <img width="450" height="250" alt="1000158293" src="https://i.postimg.cc/MpmYVyyJ/Screenshot-20260730-154711-Chrome.jpg" />
 
-<p align="center"> <img width="99" height="56" alt="1000158293" src="https://i.postimg.cc/JnLQdYPL/picmix-com-1841570.gif" />
-
-<p align="center"> <img width="450" height="90" alt="1000158293" src="https://i.postimg.cc/kGN2zyMR/2513119-6025e.gif" />
-
-<p align="center"> <img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/Wp59h5fM/8a591a20-0920-486f-9aab-d249bd2e2456.gif" />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/NFz23XCG/Screenshot-20260513-180743-Google.jpg" />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/cCDSvKXm/hello-uncle.jpg" />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/8Ct9gPG4/0c8d1537-b712-465f-bdcb-d8269b21290e.jpg" />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/B6YxQVQn/7ee26574-1bbb-4ec3-bb03-f34fab8da73b.jpg" />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/HxBK2q5f/cdfed25f-3cae-4336-b442-bf8506221f5c.jpg " />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/0Qc3fTmT/Screenshot-20260730-154751-Chrome.jpg " />
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/bJk0YkNX/P.jpg" />
-
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/SRCp4FD9/I-need.jpg " />
-
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/JnZ37Z7f/picmix-com-2814636.gif " />
-
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/rmxGyxF2/Screenshot-20260630-115849-Chrome.jpg " />
-
-
-
-<img width="120" height="90" alt="1000158293" src="https://i.postimg.cc/FsBYq1Nz/7321c847-97ce-46e1-953b-f2cc68cceaa6.jpg " />
+<img width="450" height="250" alt="1000158293" src="https://i.postimg.cc/cCDSvKXm/hello-uncle.jpg" />
